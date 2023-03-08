@@ -1,8 +1,8 @@
-# Show CJK with Bopomofo in Mandarin
+# Show CJK Pronunciation: Bopomofo/Zhuyin
 
 # 顯示漢字的注音讀法
 
-![Show CJK with Bopomofo in Mandarin](demo.png)
+![demo](demo.png)
 
 - *Demo font: Noto Sans CJK SemiBold*
 

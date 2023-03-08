@@ -11,15 +11,15 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>ShowCharacter</string>
+	<string>CJKwithBopomofo</string>
 	<key>CFBundleShortVersionString</key>
 	<string>2.0.4</string>
 	<key>CFBundleVersion</key>
 	<string>7</string>
 	<key>UpdateFeedURL</key>
-	<string>https://raw.githubusercontent.com/rutopio/CJKwithBopomofo/master/CJKwithBopomofo.glyphsReporter/Contents/Info.plist</string>
+	<string>https://raw.githubusercontent.com/rutopio/CJK-with-Bopomofo/master/CJKwithBopomofo.glyphsReporter/Contents/Info.plist</string>
 	<key>productPageURL</key>
-	<string>https://github.com/rutopio/CJKwithBopomofo</string>
+	<string>https://github.com/rutopio/CJK-with-Bopomofo</string>
 	<key>productReleaseNotes</key>
 	<string>update binary files for Glyphs3</string>
 	<key>NSHumanReadableCopyright</key>
