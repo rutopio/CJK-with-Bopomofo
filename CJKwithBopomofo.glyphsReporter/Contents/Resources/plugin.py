@@ -36,6 +36,13 @@ class CJKwithBopomofo(ReporterPlugin):
 		glyph = Layer.parent
 		glyphUnicode = glyph.unicode
 
+		if not glyphUnicode and glyph.name.startswith("uni"):
+			try:
+				glyphUnicode = glyph.name.split(".")[0][3:]
+			except:
+				glyphUnicode = ""
+			
+
 		xHeight = Layer.master.xHeight
 		angle = Layer.master.italicAngle
 		descender = Layer.master.descender
