@@ -28,7 +28,7 @@ class CJKwithBopomofo(ReporterPlugin):
 			"zh": u"漢字的讀法（注音符號）",
 			"zh-Hant": u"漢字的讀法（注音符號）",
 			"zh-Hans": u"汉字的读法（注音符号）",
-			"ja": u"漢字の読み方（注音符号）",
+			"ja": u"漢字の読み方（注音符号 / ブォプォムォフォ）",
 			})
 
 	@objc.python_method
